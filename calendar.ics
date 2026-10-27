@@ -67,4 +67,12 @@ DTEND;VALUE=DATE:20261029
 SUMMARY:Pay: £930.09 gross
 DESCRIPTION:60 hours (Oct 12 to 25 rota + 28 Sept week) incl. Sunday premium and holiday pay. About €1,111.92 at 1.1955.
 END:VEVENT
+BEGIN:VEVENT
+UID:pay-20261028@dakkin13-scff
+DTSTAMP:20261027T122300Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Pay: £930.09
+DESCRIPTION:Gross pay for 28 Sept week and 12 to 25 Oct rotas (60 h), incl. Sunday premium and holiday pay.
+END:VEVENT
 END:VCALENDAR
